@@ -1,7 +1,8 @@
 # newsLetter-subscription
-newsletter or any other form of letter,
+Subscription web application that uses mailchimp and node.js.
 
-subscription website using mailmonk.
-Can be deployed using heroku 
-I have deployed it at the link given below
+Written in javascript ,html and CSS.
+
+Can be deployed using heroku I have deployed it at the link given below:
+
 https://safe-eyrie-22384.herokuapp.com/
